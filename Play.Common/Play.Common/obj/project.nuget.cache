@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yYmkT4HFWVY6J1sD90K7lHQhh8VyxJ291PZ/VVGM9QPrz3IE2NKS89DjACoibOlqb5/wGsQxF9Bhpshjnntq3Q==",
+  "success": true,
+  "projectFilePath": "C:\\AllFiles\\Microservices\\SQLVersion\\Play.Common\\Play.Common\\Play.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\christian.kinate\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
+    "C:\\Users\\christian.kinate\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\christian.kinate\\.nuget\\packages\\microsoft.extensions.configuration.binder\\5.0.0\\microsoft.extensions.configuration.binder.5.0.0.nupkg.sha512",
+    "C:\\Users\\christian.kinate\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\christian.kinate\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\christian.kinate\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
